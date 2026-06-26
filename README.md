@@ -35,7 +35,7 @@ These figures are from a live deployment where this resolver sits behind
 upstream. Over a 90-day window, Unbound (`127.0.0.1:5335`) handled **656,096
 upstream queries** — 100% of them — at an **18 ms average response time**.
 
-![Unbound upstream query count and average response time over 90 days](docs/screenshots/unbound-upstream-stats.png)
+![Unbound upstream query count and average response time over 90 days](unbound-upstream-stats.png)
 
 ## Requirements
 
