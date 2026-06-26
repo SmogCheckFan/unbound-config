@@ -3,6 +3,7 @@
 A production-grade [Unbound](https://www.nlnetlabs.nl/projects/unbound/) configuration for a
 **recursive, caching, DNSSEC-validating** DNS resolver running on the loopback
 interface — a common upstream setup for Pi-hole, AdGuard Home, or a single host.
+> 📄 **Writeup:** [Running a Self-Hosted Recursive DNS Resolver with Unbound (90 days, 656K queries, 18 ms)](https://gist.github.com/SmogCheckFan/194982f087db7fb26eaa1945060c51f3)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Platform: Debian](https://img.shields.io/badge/Platform-Debian-red.svg)
